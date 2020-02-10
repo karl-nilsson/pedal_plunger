@@ -6,3 +6,8 @@ Material:
 Infill: 100%
 Supports: Yes
 
+
+Installation Instructions:
+https://www.youtube.com/watch?v=r0ZaqymChXo
+
+
