@@ -1,15 +1,16 @@
 # 3D model of Dyson DC18 pedal plunger part # DY-911099-01
 
-![Image of model](attempt_2.png)
+![Image of model](render.png)
 
 ## Files:
-* [STL](pedal_plunger.stl)
-* [OBJ](pedal_plunger.obj)
-* [FreeCAD](pedal_plunger.FCStd)
+* [STL](https://github.com/karl-nilsson/pedal_plunger/raw/master/pedal_plunger.stl)
+* [OBJ](https://github.com/karl-nilsson/pedal_plunger/raw/master/pedal_plunger.obj)
+* [FreeCAD](https://github.com/karl-nilsson/pedal_plunger/raw/master/pedal_plunger.FCStd)
 
-## Print instructions:
+## Print Settings:
 * Material: PLA, ABS, or PETG
 * Infill: 100%
+* Layer height: 0.1mm
 * Supports: Yes
 
 ## [Installation Instructions](https://www.youtube.com/watch?v=r0ZaqymChXo)
